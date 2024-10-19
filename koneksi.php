@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $password = "";
-$dbname = "projectrpl24";
+$dbname = "pn_projectrpl24";
 
 $koneksi = new mysqli($host, $user, $password, $dbname);
 
